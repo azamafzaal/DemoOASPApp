@@ -12,3 +12,6 @@ insert into STAFF_MEMBER (last_name, first_name, login) values ('Root', 'Joe', '
 insert into STAFF_MEMBER (last_name, first_name, login) values ('Smith', 'Steve', 'stevesmith');
 insert into STAFF_MEMBER (last_name, first_name, login) values ('Williamson', 'Kane', 'kanew');
 insert into STAFF_MEMBER (last_name, first_name, login) values ('Kohli', 'Virat', 'viratkohli');
+insert into STAFF_MEMBER (last_name, first_name, login) values ('Ali', 'Moeen', 'moali');
+insert into STAFF_MEMBER (last_name, first_name, login) values ('Dickwella', 'Niroshan', 'niroshand');
+insert into STAFF_MEMBER (last_name, first_name, login) values ('Klaasen', 'Heinrich', 'hklaasen');
